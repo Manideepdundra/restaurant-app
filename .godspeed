@@ -1,0 +1,1 @@
+{"projectName":"restaurant-app-manideep","mongodb":false,"postgresql":true,"postgresDbName":"test","kafka":false,"elasticsearch":false,"redis":false,"svcPort":3007,"postgresDbPort":5432,"mysql":false}
